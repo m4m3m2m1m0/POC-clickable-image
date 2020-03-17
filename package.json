@@ -1,0 +1,23 @@
+{
+  "name": "clickable-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4m3m2m1m0/POC-clickable-image.git"
+  },
+  "author": "Oskar Morawiec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m4m3m2m1m0/POC-clickable-image/issues"
+  },
+  "homepage": "https://github.com/m4m3m2m1m0/POC-clickable-image#readme"
+}
